@@ -1,5 +1,5 @@
 # AI
-Projects of my AI projects
+My AI projects
 
 These include projects done in school. 
 
