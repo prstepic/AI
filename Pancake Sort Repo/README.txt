@@ -1,8 +1,9 @@
 //Preston Stepic
-//625004438
 //CSCE 420
 //Due:January 31, 2019
 //README.txt
+
+These programs will execute different sort algorithms to solve the famous Pancake Flip sort problem.
 
 To run my programs: 
 
