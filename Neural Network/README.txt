@@ -1,5 +1,4 @@
 //Preston Stepic
-//625004438
 //CSCE 420
 //Due: April 25, 2019
 //README.txt
